@@ -224,7 +224,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
+- **Email**: emmanuelmakau90@gmail.com
 - **GitHub**: [https://github.com/Emmanuel10701)
 
 ---
